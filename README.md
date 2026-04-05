@@ -4,7 +4,7 @@ i'm a 20-year-old software engineer and ai builder based in Poland. i specialize
 
 i don't just "plug in" ai. i build the bullet-proof backend logic, the async architecture, and the edge-case handling required to make models survive in production environments.
 
-> currently architecting enterprise-grade multimodal extraction engines scaling across 22 countries @ **inter cars s.a.**
+> currently architecting enterprise-grade multimodal extraction engines scaling across 21 countries @ **inter cars s.a.**
 
 ---
 
