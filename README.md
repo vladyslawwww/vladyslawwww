@@ -48,7 +48,6 @@ i bridge the gap between heavy enterprise operations and modern ai capabilities.
 
 ### 🚀 what i'm focused on right now
 
-- 📦 open-sourcing [undocs-saas](https://github.com/vladyslawwww/undocs-saas) — a full-stack, multi-tenant boilerplate for multimodal ocr, complete with rbac and stripe billing.
 - 📉 optimizing cloud costs by routing easy data extraction tasks to deterministic python scripts, saving expensive llm tokens only for complex edge-cases.
 - ⚡ exploring the intersection of heavy backend architecture and enterprise citizen development (power platform).
 
